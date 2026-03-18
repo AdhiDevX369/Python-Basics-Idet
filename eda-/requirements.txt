@@ -1,0 +1,9 @@
+plotly
+polars
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+jupyter
+ipykernel
